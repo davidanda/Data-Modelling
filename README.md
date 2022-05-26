@@ -1,2 +1,2 @@
 # Data-Modelling
-A data modelling project that implements an academic publishing use case using SQL, Neo4J and MongoDB
+A data modelling project that implements an academic publishing database using SQL, Neo4J and MongoDB
